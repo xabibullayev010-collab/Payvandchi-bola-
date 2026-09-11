@@ -1,2 +1,3 @@
 # Payvandchi-bola-
-Mening birinchi github loyiham
+Bu mening GitHub'dagi birinchi loyiham.
+Men payvandlash, dasturlash va zamonaviy texnologiyalarni o'rganmoqdaman.
